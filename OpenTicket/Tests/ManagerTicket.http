@@ -1,0 +1,14 @@
+
+
+### update an existing address by ID 
+POST   http://localhost:5290/api/managerTicket/
+Content-Type: application/json
+
+{
+    "id": 7,
+    "technicianDescription": "aaaretirado para manutencao",
+    "assignedEmployeeId": 1,
+    "status": 1
+}
+
+
