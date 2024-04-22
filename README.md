@@ -7,8 +7,8 @@
 ### **Tecnologias Utilizadas** ⌨️
 - ASP.NET Core 6
 - SQLITE 
--ENTITY FRAMEWORK
--SWAGGER
+- ENTITY FRAMEWORK
+- SWAGGER
 
 ### **Funcionalidades** ⚙️
 - Cadastro de funcionarios (tecnico, cliente e administrador)
